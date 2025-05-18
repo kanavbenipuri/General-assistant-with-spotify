@@ -1,0 +1,11 @@
+# Dependencies
+spotipy==2.23.0  # Spotify API integration
+requests==2.31.0  # For weather API calls
+icalendar==5.0.11  # For calendar integration
+pytz==2024.1  # For timezone handling
+python-dotenv==1.0.0  # For loading environment variables
+
+# Built-in modules used:
+# - datetime
+# - webbrowser
+# - os
